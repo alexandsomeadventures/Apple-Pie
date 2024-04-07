@@ -5,3 +5,7 @@ Before cloning repo, make sure you create your own Swift UiKit project.
 
 1)Install Game.swift and ViewController.swift files
 2) Install assets for game rendering(tree image sets)
+
+Take a look at Main Storyboard file. 
+
+Good luck!
